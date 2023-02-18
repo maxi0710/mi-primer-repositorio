@@ -1,2 +1,1 @@
-# mi-primer-repositorio
-repositorio de prueba henry
+proyecto de como crear un repositorio y clonarlo desde github
